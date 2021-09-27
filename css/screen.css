@@ -18,6 +18,20 @@ div {
 label{
 		display: block;
 		text-align:center;
+		width:95%;
+		margin: 0 auto;
+		height:30px;
+		}
+
+#phone{
+		margin-left:50px;
+		}
 		
+#birth{
+		margin-right:22px;
+		}
+		
+#emil{
+		margin-left:50px;
 		}
 		
