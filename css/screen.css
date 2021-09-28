@@ -1,37 +1,9 @@
+	
 html {
 		line-height: 140%;
 		font-family: "Courier New",monospace;
 		font-size: 14px;
 		}
 
-input {
-		width:20%;
-		height: 20px;
-		margin:2px;
-		}
-		
-div {
-		width:50%;
-		margin: 0 auto;
-		}
-		
-label{
-		display: block;
-		text-align:center;
-		width:95%;
-		margin: 0 auto;
-		height:30px;
-		}
 
-#phone{
-		margin-left:50px;
-		}
-		
-#birth{
-		margin-right:22px;
-		}
-		
-#emil{
-		margin-left:50px;
-		}
 		
