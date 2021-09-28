@@ -2,8 +2,52 @@
 html {
 		line-height: 140%;
 		font-family: "Courier New",monospace;
-		font-size: 14px;
+		font-size: 32px;
 		}
+		
+form{ text-align:center;
+	  width:100%
+
+}
+	
+h1 {
+		text-align:center;
+		font-size:16px;
+		margin-left:10px;
+		}
+		
+input {
+		width:20%;
+		height: 20px;
+		margin:2px;
+		}
+		
+div {
+		width:50%;
+		margin: 0 auto;
+		}
+		
+label{
+		display: block;
+		text-align:center;
+		width:95%;
+		margin: 0 auto;
+		height:30px;
+		}
+
+		
+#birth{
+		margin-right:22px;
+		}
+		
+
+		
+#button{
+		text-align:center;
+		margin-left:605px
+		}
+}
+
 
 
 		
