@@ -2,16 +2,66 @@ body{
 		background-color:#FFB6C1;
 		}
 		
-@media screen and (min-width: 460px){	
 html {
 		line-height: 140%;
 		font-family: "Courier New",monospace;
-		font-size: 32px;
+		font-size: 29px;
 		}
 		
+@media screen and (min-width: 480px){	
+
 form{ text-align:center;
 	  width:100%;
 }
+
+legend{ 
+		margin:0 auto;
+		}
+		
+h1 {
+		text-align:center;
+		font-size:32px;
+		margin-left:10px;
+		}
+		
+input {
+		width:50%;
+		height: 40px;
+		margin:2px;
+		font-size:22px;
+		}
+		
+div {	
+		width:100%;
+		margin:0 auto;
+		}
+		
+label{
+		display: block;
+		text-align:center;
+		width:95%;
+		margin: 0 auto;
+		height:80px;
+		}
+
+		
+#birth{
+		margin-right:140px;
+		}
+
+#button{
+		text-align:center;
+		margin-left:100px
+		}
+}
+
+
+@media screen and (min-width: 992px) {
+	
+form{ 	 text-align:center;
+		 width:100%;
+		 
+		}
 	
 h1 {
 		text-align:center;
@@ -20,14 +70,14 @@ h1 {
 		}
 		
 input {
-		width:40%;
+		width:30%;
 		height: 40px;
 		margin:2px;
-		font-size:32px;
+		font-size:16px;
 		}
 		
 div {
-		width:90%;
+		width:70%;
 		margin: 0 auto;
 		}
 		
@@ -41,7 +91,8 @@ label{
 
 		
 #birth{
-		margin-right:150px;
+		margin-right:140px;
+		width: 30%;
 		}
 		
 
@@ -51,11 +102,4 @@ label{
 		margin-left:100px
 		}
 }
-
-@media screen and (min-width: 980px) {
 	
-}
-
-
-
-		
